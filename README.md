@@ -6,6 +6,6 @@ to your friends
 #
 P.S.
 https://t.me/open_sourse_lab
-#
-#In this channel I will post corrections and additions to the bot
+
+In this channel I will post corrections and additions to the bot
 errors and suggestions for functionality write in the comments
