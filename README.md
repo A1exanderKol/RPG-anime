@@ -1,7 +1,8 @@
 # RPG-anime
 # @OOFFFIIINNN_bot
 New game, where you watch the anime and up your level https://t.me/OOFFFIIINNN_bot
-#my new bot is an RPG-anime game, write to him the anime you've watched and raise your level
+
+my new bot is an RPG-anime game, write to him the anime you've watched and raise your level
 Tell and show off your level
 to your friends 
 #
